@@ -1,0 +1,4 @@
+In Python you can deal with images.
+In Python you can make some games.
+In Python you can get information form internet.
+In Python you can deal with excel.
